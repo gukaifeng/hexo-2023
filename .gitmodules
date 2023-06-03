@@ -1,0 +1,6 @@
+[submodule "source"]
+	path = source
+	url = git@github.com:gukaifeng/hexo-source-2023.git
+[submodule "themes/next"]
+	path = themes/next
+	url = git@github.com:gukaifeng/hexo-theme-next-2023.git
