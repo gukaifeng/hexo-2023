@@ -107,3 +107,9 @@ deploy:
 permalink_pinyin:
   enable: true
   separator: '-'
+
+excerpt:
+  depth: 8
+  excerpt_excludes: []
+  more_excludes: []
+  hideWholePostExcerpts: true
