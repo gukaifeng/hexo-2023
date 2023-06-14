@@ -629,7 +629,7 @@ motion:
     post_body: fadeInDown
     coll_header: fadeInLeft
     # Only for Pisces | Gemini.
-    sidebar: fadeInUp
+    sidebar: fadeInDown
 
 # Progress bar in the top during page loading.
 # For more information: https://github.com/CodeByZach/pace
