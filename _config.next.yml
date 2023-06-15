@@ -744,10 +744,10 @@ isso: # <data_isso>
 remark42:
   enable: true
   # remark42 server host, e.g. https://remark.com, http://127.0.0.1:8080,
-  host: http://127.0.0.1:8080
+  host: https://gukaifeng.cn:8081
   site_id: gukaifeng
   theme: # default: light
-  locale: # default: 'en'
+  locale: zh # default: 'en'
   no_footer: true # default: false
 
 # ---------------------------------------------------------------
