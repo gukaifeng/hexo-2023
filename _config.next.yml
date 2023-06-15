@@ -742,13 +742,13 @@ isso: # <data_isso>
 # Remark42
 # For more information: https://remark42.com/
 remark42:
-  enable: false
+  enable: true
   # remark42 server host, e.g. https://remark.com, http://127.0.0.1:8080,
-  host:
-  site_id:
+  host: http://127.0.0.1:8080
+  site_id: gukaifeng
   theme: # default: light
   locale: # default: 'en'
-  no_footer: # default: false
+  no_footer: true # default: false
 
 # ---------------------------------------------------------------
 # Post Widgets & Content Sharing Services
